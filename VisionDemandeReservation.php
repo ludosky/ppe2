@@ -17,7 +17,7 @@
                while ($resultat = $reponse->fetch() ) {
                    echo'<tr><td><INPUT type= "radio" name="modif" value="1'.$resultat['0'].'"><td><INPUT type= "radio" name="modif" value="0'.$resultat['0'].'"></td><td>'.$resultat['0'].'</td><td>'.$resultat['1'].'</td><td>'.$resultat['2'].'</td><td>'.$resultat['3'].'</td><td>'.$resultat['5'].'</td><td>'.$resultat['4'].'</td><td>'.$resultat['6'].'</td><td>'.$resultat['7'].'</td></tr>';                             
                }
-               echo '</table>';
+                              echo '</table>';
          ?>  
             
             

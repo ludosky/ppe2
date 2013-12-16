@@ -7,7 +7,7 @@ session_start();
     {
         echo '
             <script>
-                alert("Votre réservation a bien été envoyée");
+                alert("Votre réservation a bien été envoyée!");
                 window.location = "EspaceMembre.php";
             </script> 
         ';
