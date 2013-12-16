@@ -25,7 +25,7 @@ and open the template in the editor.
                          <label for="adresse">Votre adresse :</label>
                          <input type="text" name="adresse" id="adresse" required/></br>
                          <label for="mail">Votre adresse mail :</label>
-                         <input type="text" name="mail" id="mail" required/></br>
+                         <input type="mail" name="mail" id="mail" required/></br>
                          
                          <label for="NewLogin">Votre nom de compte (login) :</label>
                          <input type="text" name="NewLogin" id="NewLogin" required/></br>
